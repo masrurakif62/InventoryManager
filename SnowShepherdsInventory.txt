@@ -1,0 +1,6 @@
+ID       Product     Wholesale    Retail  Quantity
+24       Boots          140.00    260.75        23
+17       Skis           300.50    550.55         8
+39       Hat             15.25     30.20        42
+71       Gloves          18.10     28.00        51
+65       Snowboard      400.40    620.50        18
